@@ -231,10 +231,14 @@ hr.top {
   margin-right: 3em; }
 
 hr.mid {
-	border-top: 1px solid black; }
+	border-top: 1px solid black;
+  margin-left: 3em;
+  margin-right: 3em; }
 
 hr.bottom {
-	border-top: 3px solid black; }
+	border-top: 3px solid black;
+  margin-left: 3em;
+  margin-right: 3em; }
 
 body {
   background: #fff;
