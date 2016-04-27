@@ -224,6 +224,11 @@
    text-rendering: optimizeLegibility;
 }
 
+
+hr.top{
+	border-top: 1px solid black;
+}
+
 body {
   background: #fff;
   background-color: #fff; }
